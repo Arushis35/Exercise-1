@@ -30,7 +30,6 @@ jobs:
         run: |
           tree -L 2 "$HOME"
 
-
   tool-check:
     runs-on: ubuntu-latest
 
